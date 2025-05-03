@@ -1,6 +1,6 @@
 # COVID-19 Prediction Models
 
-![ROC Curves for COVID-19 Prediction Models](assets/img1.png)
+![ROC Curves for COVID-19 Prediction Models](img1.png)
 
 ## Project Overview
 
