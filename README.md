@@ -102,19 +102,6 @@ The project follows a rigorous machine learning pipeline:
 - **Data Preprocessing**: Handling missing values, feature engineering, scaling
 - **Model Evaluation**: ROC curves, sensitivity/specificity analysis, cross-validation
 
-## Installation & Usage
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/covid-prediction-models.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the main pipeline
-python covid_prediction.py
-```
-
 ## Future Directions
 
 - Incorporate temporal data features (changes in lab values over time)
